@@ -1,0 +1,12 @@
+body {
+    background-color: silver;
+}
+
+.app {
+    max-width: 700px;
+    background-color: rgb(226, 219, 219);
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 20px;
+    min-height: 350px;
+}
